@@ -12,7 +12,7 @@ then the server receives the data and updates in the database.
 Python, Socket (Udp), Sqlite
 
 ### GIT
-https://github.com/nuriel99/Flying-Pilot
+https://github.com/nuriel99/client_server_in_python.git
 
 ### Youtube
 https://youtu.be/7I5WGgIpQgo
