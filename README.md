@@ -14,6 +14,6 @@ Python, Socket, SQLite
 https://github.com/nuriel99/client_server_in_python.git
 
 ### Youtube
-https://youtu.be/7I5WGgIpQgo
+https://youtu.be/87bqASPBJQM
 
 <br>
